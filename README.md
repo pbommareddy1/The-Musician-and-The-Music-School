@@ -48,9 +48,21 @@ statistical tests.
   - I used Muñoz's specifications and code to build my tables to maintain consistency; however, I have indicated in the code file if I made any changes
 
 ## Findings with Visualizations
-<img src="(https://github.com/pbommareddy1/The-Musician-and-The-Music-School/blob/main/Fig8_Complete_Pipeline.jpg)" alt="Complete Training-Profession Pipeline" width="200">
+
+This graphic clearly illustrates the bottlenecking feature of the elite institutions. Even though I made the set of orchestras broader, the trend remains the same: a handful of institutions (k50) are responsible for constraining the market. 
+
+<img width="493" height="398" alt="Training-to-Profession Pipeline" src="https://github.com/user-attachments/assets/be560587-a0e7-478a-bc82-17be6157fdf3" />
+
+This graphic shows the effect of the previous graph, namely attrition of underrepresented minorities in the professional orchestras. 
+
+<img width="885" height="306" alt="Attrition" src="https://github.com/user-attachments/assets/cae1ffc3-1c38-4f21-890e-c82c8476b152" />
+
+And these disparities are despite rapid demographic shifts that seemingly indicate diversification in the overall orchestral training market. This further suggests that the elite schools act as feeder institutions, which constrict changes in demographics to favor non-underrepresented musicians.
+
+<img width="493" height="398" alt="Demographic Shifts (2011-2024)" src="https://github.com/user-attachments/assets/d98f158c-3124-47a7-ab84-dec11e3fbf94" />
 
 
 
 ## Conclusion
 
+This project turned out to be out of my scope, but I feel that it is a good starting point for further research in this understudied field.
