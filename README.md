@@ -48,7 +48,8 @@ statistical tests.
   - I used Muñoz's specifications and code to build my tables to maintain consistency; however, I have indicated in the code file if I made any changes
 
 ## Findings with Visualizations
-<img src="[YOUR URL HERE]" alt="[IMAGE DESCRIPTION HERE]" width="200">
+<img src="(https://github.com/pbommareddy1/The-Musician-and-The-Music-School/blob/main/Fig8_Complete_Pipeline.jpg)" alt="Complete Training-Profession Pipeline" width="200">
+
 
 
 ## Conclusion
